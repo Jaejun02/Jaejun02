@@ -13,14 +13,16 @@
 - **ESG Data Extraction & Performance Analysis**  
   End-to-end pipeline combining OCR, RAG, and LLM parsing → cut manual due diligence by **~60%**, **78.9% accuracy** on KPI extraction, Dockerized workflows, live Power BI dashboards.  
 
-- **Toxic Comment Classification API**  
-  Fine-tuned DistilBERT (**0.947 F1** on 150K samples) and deployed via FastAPI with feedback monitoring.  
+- **Toxic Comment Projects**  
+  - **Classifier (DistilBERT)**: Fine-tuned model reaching **0.947 F1** on 150K samples.  
+  - **FastAPI Service**: Deployed a REST API supporting 1,000-char inputs with feedback monitoring to simulate real-world robustness.  
 
 ---
 
 ## 📌 Pinned Projects
 👉 [ESG Data Extraction & Analysis](https://github.com/Jaejun02/esg_analysis) – OCR + LLM pipeline, Docker, dashboards  
-👉 [Toxic Comment Classification API](https://github.com/Jaejun02/toxic_comment_api) – DistilBERT + FastAPI REST service  
+👉 [Toxic Comment Classifier](https://github.com/Jaejun02/toxic_comment) – DistilBERT model training & evaluation  
+👉 [Toxic Comment API](https://github.com/Jaejun02/toxic_api) – FastAPI REST service with monitoring  
 
 ---
 
