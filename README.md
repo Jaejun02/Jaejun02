@@ -81,7 +81,7 @@ Key elements:
 **Languages:** Python, SQL, kdb+/q, R, Java  
 **Data / analytics:** Pandas, NumPy, scikit-learn, Matplotlib, CVXPY  
 **ML / NLP:** PyTorch, Hugging Face, DistilBERT, Optuna, LLM-based extraction  
-**Data engineering / platforms:** Databricks, PySpark, ETL workflows, Flyway, SQLite  
+**Data engineering / platforms:** Databricks, PySpark, ETL workflows, Flyway  
 **Backend / tooling:** FastAPI, Docker, Git, Bruno, Selenium  
 
 ## Best-fit areas
