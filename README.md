@@ -76,20 +76,6 @@ Key elements:
 - Model checkpointing
 - Reported best test F1 score: 0.947
 
-### [Toxic Comment API](https://github.com/Jaejun02/toxic_api)
-
-FastAPI service for toxic-comment classification using a pretrained Toxic BERT model.
-
-Key elements:
-
-- Classification endpoint
-- Feedback submission endpoint
-- Feedback retrieval endpoint
-- SQLite feedback storage
-- Swagger UI and ReDoc documentation
-
-Note: this API uses a pretrained Toxic BERT model. It is separate from my DistilBERT training project.
-
 ## Technical stack
 
 **Languages:** Python, SQL, kdb+/q, R, Java  
