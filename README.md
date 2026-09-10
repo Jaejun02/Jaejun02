@@ -9,7 +9,7 @@ Two internships at GIC: kdb+/q data-access APIs and a Databricks/PySpark migrati
 **Quantitative simulation — [dca_simulator](https://github.com/Jaejun02/dca_simulator)**\
 FastAPI/React tool that compares dollar-cost-averaging contribution policies using robust mean and covariance estimation, bootstrap and t-copula return scenarios, and CVaR-constrained optimization.
 
-**Applied ML — [prompt-injection-clip](https://github.com/Jaejun02/prompt-injection-clip)**\
+**Applied ML — [multimodal-safety-clip](https://github.com/Jaejun02/multimodal-safety-clip)**\
 Multimodal safety classifier: the CLIP track of a 4-person course project, which I designed and ran. Frozen OpenCLIP encoders with a learned fusion head, selected by a 2,925-run cross-validated beam search and audited for seed stability, calibration and decision thresholds.
 
 **LLM data pipeline — [esg_analysis](https://github.com/Jaejun02/esg_analysis)**\
